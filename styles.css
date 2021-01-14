@@ -1,0 +1,29 @@
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    Margin: 5px;
+    background: #F3C4BF;
+}
+
+aside {
+    padding: 10px;
+    border: 10px solid black;
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+.hello {
+    display: flex;
+}
+
+.bye {
+    width: 1500px;
+}
+
+body {
+    background-color: #C39B77;
+}
